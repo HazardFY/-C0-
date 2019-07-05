@@ -1,0 +1,11 @@
+int main(){
+int ax =2;
+
+int i=0;
+while(i <=3){
+i=i+1;
+i=i*2;
+}
+ax=ax+5;
+return;
+}

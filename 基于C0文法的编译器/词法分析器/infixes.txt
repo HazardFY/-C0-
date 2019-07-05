@@ -1,0 +1,8 @@
+int wo;
+int ta=1;
+int c=wo+ta;
+char M='K';
+int main(){
+ta=ta+1;
+return;
+}

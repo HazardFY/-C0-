@@ -1,0 +1,12 @@
+
+int main(){
+int ax,bx;
+int i;
+bx=0;
+i=0;
+for(ax=0;i<=2;i=i+1){
+ax=bx+i;
+}
+ax=ax*2;
+return;
+}

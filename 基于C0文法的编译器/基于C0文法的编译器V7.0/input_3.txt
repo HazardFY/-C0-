@@ -1,0 +1,16 @@
+int mm(int x)
+{
+return (x+1);
+}
+int main()
+{
+int a=1,b=2;
+mm(a);
+switch(a){
+case 1:b=b+1;
+case 2:b=b-1;
+default:b=0;
+}
+a=a*4;
+return;
+}

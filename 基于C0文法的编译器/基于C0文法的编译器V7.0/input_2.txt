@@ -1,0 +1,14 @@
+
+int main(){
+int ax,bx;
+int i;
+bx=3;
+ax=1;
+i=0;
+while((i==0)&&(bx>2)){
+if((bx==3)||(ax>0))ax=bx+i;
+else i=i+5;
+}
+ax=ax*2;
+return;
+}

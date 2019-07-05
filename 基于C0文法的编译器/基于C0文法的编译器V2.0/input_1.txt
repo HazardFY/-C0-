@@ -1,0 +1,13 @@
+const int a=2;
+const char c='Q';
+int main(){
+int x,y,i;
+i=3;
+switch(i){
+case 1: i=i+1;
+case 2: i=i*2;
+case 3: i=9;
+default:i=1;
+}
+  return ;
+}

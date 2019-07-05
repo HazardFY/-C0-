@@ -1,0 +1,16 @@
+int compute()
+param int x1
+param int x2
+int y1
+y1 = x1 + x2
+return y1
+int main()
+int x1
+int x2
+x2 = 5
+x1 = 1
+push x1
+push x2
+call compute
+#t1 = #RET
+return  

@@ -1,0 +1,10 @@
+
+int main(){
+int ax,bx;
+int i;
+bx=0;
+i=0;
+scanf(ax);
+printf(bx);
+return;
+}

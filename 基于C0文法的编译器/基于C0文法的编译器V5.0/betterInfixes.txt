@@ -1,0 +1,31 @@
+int compute()
+param int x1
+param int x2
+int y1
+y1 = x1 + x2
+return y1
+int main()
+int T0
+int T1
+int T2
+int T3
+int T4
+int T5
+int T6
+int A
+int B
+int R
+int r
+r = 3
+R = 2
+#t7 = R - r
+T2 = R + r
+T0 = 5
+T1 = 2 * T0
+#t3 = T1 * T2
+#t8 = #t3 * #t7
+push T1
+push T2
+call compute
+#t9 = #RET
+return  

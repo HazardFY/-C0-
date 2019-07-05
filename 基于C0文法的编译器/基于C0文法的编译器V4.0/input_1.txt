@@ -1,0 +1,16 @@
+const int a=2;
+const char c='Q';
+int main(){
+  int ax;
+  int bx;
+  int cy,dy;
+  int ey;
+ ax=-1
+  bx=2;
+ if(ax==-1)ax=1;
+else ax=2;
+  cy=ax+bx;
+  dy=cy*ax;
+  ey=dy/cy;
+  return ;
+}
